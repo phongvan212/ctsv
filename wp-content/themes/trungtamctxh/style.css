@@ -307,3 +307,97 @@ a:visited {
 .wp-caption{
     width: 100% !important;
 }
+
+.wrap-lst-grp-item{
+    padding: 12px 10px !important;
+}
+.wrap-lst-grp-item >h3>a{
+    font-size: 14px !important;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+.clearfix:after, .clearfix:before {
+    clear: both;
+}
+ol{
+    padding-left: 0px;
+}
+ol.commentlist li:first-child {
+    padding: 25px 0 0 0;
+    border: none;
+}
+
+ol.commentlist li {
+    clear: both;
+    list-style: none;
+}
+
+ol.commentlist li {
+    margin-bottom: 25px;
+}
+.avatar{
+    border-radius: 50% !important;
+    float: left;
+}
+
+.comment-des {
+    margin: 0 0 0 81px;
+    padding: 10px 20px;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+}
+
+.comment-des:hover {
+    -webkit-box-shadow: 0 0 0 3px rgba(0,0,0,0.05);
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.05);
+}
+
+.comment-by {
+    position: relative;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 1em;
+}
+
+.comment-des p {
+    margin: 0;
+}
+
+.comment-des strong {
+    color: #555;
+    font-weight: normal;
+}
+
+p.date {
+    display: block;
+    color: #999;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+p.cmt-content{
+    color: #000;
+}
+
+.byuser .comment-des {
+    border-color: #bde395;
+    background: #eff8e6;
+}
+
+ol li ol.children {
+    float: left;
+    margin-left: 80px;
+}
+
+.administrator{
+    color: #007bb6;
+    font-weight: bold;
+}
+
+.admin-name{
+    color: #007bb6 !important;
+}

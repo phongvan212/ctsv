@@ -32,6 +32,7 @@
 		   $(".wrap-lst-grp-item").wrapAll("<div id='category-list' class='list-group'></div>")
 		   $(".breadcrumbs").addClass("breadcrumb");
 		   $("input").addClass("form-control");
+		   $('input[type="submit"]').removeClass("form-control");
 		   $("textarea").addClass("form-control");
 		   $(".wpcf7-submit").addClass("btn btn-primary");
 		   $(".widget_calendar>.widgettitle").addClass("alert alert-title");

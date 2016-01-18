@@ -1799,6 +1799,7 @@ function get_comment_id_fields( $id = 0 ) {
 	 *
 	 * @since 3.0.0
 	 *
+	 
 	 * @param string $result    The HTML-formatted hidden id field comment elements.
 	 * @param int    $id        The post ID.
 	 * @param int    $replytoid The id of the comment being replied to.
