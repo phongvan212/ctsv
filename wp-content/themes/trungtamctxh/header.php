@@ -18,11 +18,11 @@
         			<?php //cswd_logo(); ?>
         			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         				<a href="/">
-        					<img src="http://localhost/congtacsinhvien/wp-content/uploads/2016/01/LOGO-CHU-NEW.png" class="img-responsive" alt="Trung tâm phát triển công tác xã hội trường đại học thủ dầu một">
+        					<img src="http://congtacsinhvien.tdmu.edu.vn/wp-content/uploads/2016/01/LOGO-CHU-NEW.png" class="img-responsive" alt="Trung tâm phát triển công tác xã hội trường đại học thủ dầu một">
         				</a>
         			</div>
         			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 anhbannerphu">
-        				<img src="http://localhost/congtacsinhvien/wp-content/uploads/2016/01/anhbaner-TOCHUC.png" class="img-responsive" alt="Trung tâm phát triển công tác xã hội trường đại học thủ dầu một">
+        				<img src="http://congtacsinhvien.tdmu.edu.vn/wp-content/uploads/2016/01/anhbaner-TOCHUC.png" class="img-responsive" alt="Trung tâm phát triển công tác xã hội trường đại học thủ dầu một">
         			</div>
         		</div>
 			        
